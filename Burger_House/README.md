@@ -31,7 +31,7 @@ Rodapé: Links e informações adicionais, como perfis de mídia social. <br/>
 <br>
 
 <p align="center">
-  <img alt="Hamburgueria" src=".github/preview.jpg" width="100%">
+  <img alt="Hamburgueria" src="C:\Users\User.LAPTOP-8JBV60FI\OneDrive\Documentos\Trampo Tec\Hamburgueria\image" width="100%">
 </p>
 
 ## 🚀 Tecnologias
